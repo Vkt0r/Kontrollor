@@ -1,0 +1,18 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Files",
+      "reason": null,
+      "repositoryURL": "https://github.com/johnsundell/files.git",
+      "version": "1.9.0"
+    },
+    {
+      "package": "Rainbow",
+      "reason": null,
+      "repositoryURL": "https://github.com/onevcat/Rainbow",
+      "version": "2.0.1"
+    }
+  ],
+  "version": 1
+}
